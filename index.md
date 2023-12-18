@@ -1,4 +1,4 @@
-*NanoBeacon 隐私政策*
+**NanoBeacon 隐私政策**
 
 更新日期：2023年05月15日
 
